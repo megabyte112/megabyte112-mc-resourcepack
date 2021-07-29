@@ -1,4 +1,4 @@
 # megabyte112-mc-resourcepack
-a resource pack i made, thanks
+A Minecraft resource pack i made, thanks for downloading <3
 
-Download this and place it in your minecraft directory's resourcepacks folder, there's no need to unzip.
+Download from the releases page (on the right) and place it in your minecraft directory's resourcepacks folder, there's no need to unzip.
