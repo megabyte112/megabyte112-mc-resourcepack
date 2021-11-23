@@ -1,6 +1,6 @@
 [
     {
-        "section": "megabyte112's resource pack",
+        "section": "megabyte112's Resource Pack",
         "titles": [
             {
                 "title": "Creator",
@@ -11,7 +11,13 @@
             {
                 "title": "Version",
                 "names": [
-                    "2021.11.15.0"
+                    "2021.11.22.0"
+                ]
+            },
+            {
+                "title": "GitHub Contributer",
+                "names": [
+                    "T-Kalv"
                 ]
             },
             {
