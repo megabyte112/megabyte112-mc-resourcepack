@@ -150,5 +150,6 @@
   "subtitles.entity.sheep.death": "Shep dies",
   "subtitles.entity.sheep.hurt": "Shep hurts",
   "block.minecraft.deepslate_diamond_ore": "Deepslate Deemond Ore",
-  "block.minecraft.deepslate_emerald_ore": "Mena de esmeralda de pizarra profunda"
+  "block.minecraft.deepslate_emerald_ore": "Mena de esmeralda de pizarra profunda",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Cinnamon Roll"
 }
