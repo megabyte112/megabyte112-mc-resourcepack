@@ -11,9 +11,11 @@ These tweaks include, but are not limited to:
 - Spyglass becoming the "WHAT" meme
 - Ocean title screen
 - Custom Splashes
+- Meme paintings, and also nice scenery paintings
 - 3D flowers and mushrooms
 - A LOT of renamed items (Sheep -> Shep, Shulker -> Shukler, Kelp -> Klep, etc)
 - Netherite tools and armor have visible diamonds that glow in the dark
+- Plus many more I forgot to mention!
 
 Download from the releases page (on the right) and place it in your minecraft directory's resourcepacks folder, there's no need to unzip.
 
@@ -21,6 +23,6 @@ If you have the pack installed and would like to check your version number, clic
 
 If the custom names aren't working, make sure your language is set to English United States.
 
-Make sure OptiFine is installed for connected and emissive textures.
+Make sure OptiFine is installed for connected, emissive, and HD textures.
 
 There is a known bug where shields with banners become glitched when wearing netherite armour or holding a netherite tool. As far as I am aware, this is a bug in OptiFine's Emissive Textures and there's nothing i can do about it - sorry!
