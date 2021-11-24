@@ -9,9 +9,12 @@
 					]
 				},
 				{
-					"title": "Version",
+					"title": "Version info",
 					"names": [
-						"2021.11.24.0"
+						"Version 1.0.0",
+						"Build 2021.11.24.0",
+						"",
+						"Thanks for downloading <3"
 					]
 				},
 				{
@@ -27,10 +30,16 @@
 				{
 					"title": "ByteSMP Members",
 					"names": [
+						"capputchina",
+						"CoolGuyBob2",
 						"CozmicGaming123",
+						"Dressed_Up_Fox",
 						"ElonMuks",
 						"Lilkie2802",
+						"megabyte112",
 						"Ozzie123PE",
+						"Professor_BigBum",
+						"T_Kalv04",
 						"TomasiNium",
 						"XenBlem"
 					]
