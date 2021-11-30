@@ -9,7 +9,6 @@ These tweaks include, but are not limited to:
 - Ores that glow
 - Ore Borders that connect to each other, and also glow
 - Spyglass becoming the "WHAT" meme
-- Ocean title screen
 - Custom Splashes
 - Meme paintings, and also nice scenery paintings
 - 3D flowers and mushrooms
