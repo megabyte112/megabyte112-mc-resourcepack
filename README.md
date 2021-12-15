@@ -29,5 +29,5 @@ There is a known bug where shields with banners become glitched when wearing net
 
 UPDATING:
 
-You can get the auto updater from here
+You can get the auto updater from here:
 https://github.com/megabyte112/megabyte112-RP-updater/releases
