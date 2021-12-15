@@ -25,3 +25,8 @@ If the custom names aren't working, make sure your language is set to English Un
 Make sure OptiFine is installed for connected, emissive, and HD textures.
 
 There is a known bug where shields with banners become glitched when wearing netherite armour or holding a netherite tool. As far as I am aware, this is a bug in OptiFine's Emissive Textures and there's nothing i can do about it - sorry!
+
+
+UPDATING
+You can get the auto updater from here
+https://github.com/megabyte112/megabyte112-RP-updater/releases
