@@ -3,15 +3,20 @@
 			"section": "megabyte112's Resource Pack",
 			"titles": [
 				{
+					"title": "Version",
+					"names": [
+						"Release 1.3.1"
+					]
+				},
+				{
 					"title": "Creator",
 					"names": [
 						"megabyte112"
 					]
 				},
 				{
-					"title": "Contributors",
+					"title": "Suggestions",
 					"names": [
-						"capputchina",
 						"ElonMuks",
 						"Lilkie2802"
 					]
@@ -25,13 +30,50 @@
 					]
 				},
 				{
+					"title": "Paintings",
+					"names": [
+						"capputchina",
+						"Elon Musk",
+						"ElonMuks",
+						"Innersloth",
+						"Lilkie2802",
+						"Mark Zuckerberg",
+						"Markiplier (E meme)",
+						"megabyte112",
+						"Mojang Studios",
+						"SpaceX",
+						"Vladimir Romanyuk (SpaceEngine)",
+						"",
+						"+ Many more I can't find the source for"
+					]
+				},
+				{
+					"title": "Other Assets",
+					"names": [
+						"Vanilla Tweaks (3D, Spyglass, General Tweaks)",
+						"Ph1LzA (Netherite Diamonds)"
+					]
+				},
+				{
+					"title": "Software",
+					"names": [
+						"GitHub",
+						"Krita",
+						"Visual Studio Code"
+					]
+				},
+				{
+					"title": "OptiFine",
+					"names": [
+						"sp614x"
+					]
+				},
+				{
 					"title": "General Information",
 					"names": [
-						"Version 1.3.0",
-						"Build 2021.12.20.4",
 						"Made for Minecraft 1.18.x",
 						"",
-						"Contributors are credited by Minecraft Usernames",
+						"Contributors are credited by Minecraft usernames where possible",
 						"",
 						"Thanks for downloading <3"
 					]
