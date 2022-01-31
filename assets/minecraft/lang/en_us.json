@@ -169,7 +169,8 @@
   "block.minecraft.spawn.not_valid": "lmao you failed to respawn",
   "item.minecraft.enchanted_golden_apple": "Notch Apple",
   "item.minecraft.pufferfish": "Jeff",
-  "item.minecraft.music_disc_13.desc": "Nyan Cat (Noteblock Cover)",
-  "item.minecraft.music_disc_11.desc": "Rick Astley - Never Gonna Give You Up (Noteblock Cover)",
+  "item.minecraft.music_disc_13.desc": "Nyan Cat",
+  "item.minecraft.music_disc_11.desc": "Rick Astley - Never Gonna Give You Up",
+  "item.minecraft.music_disc_mellohi.desc": "Caramell - Caramelldansen",
   "item.minecraft.rotten_flesh": "Aldi Meat"
 }
