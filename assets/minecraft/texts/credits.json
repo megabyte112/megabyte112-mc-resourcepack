@@ -5,7 +5,8 @@
 				{
 					"title": "Version",
 					"names": [
-						"Release 1.3.4"
+						"preRelease 1.4.0",
+						"build 2022.3.9.0"
 					]
 				},
 				{
@@ -18,7 +19,8 @@
 					"title": "Suggestions",
 					"names": [
 						"ElonMuks",
-						"Lilkie2802"
+						"Lilkie2802",
+						"T.Kalv"
 					]
 				},
 				{
@@ -32,13 +34,12 @@
 				{
 					"title": "Paintings",
 					"names": [
+						"Bryan Cranston",
 						"capputchina",
 						"Elon Musk",
-						"ElonMuks",
 						"Enhance Games",
 						"Innersloth",
 						"John Cena",
-						"Lilkie2802",
 						"Mark Zuckerberg",
 						"Markiplier",
 						"megabyte112",
@@ -52,21 +53,29 @@
 				{
 					"title": "Music Discs",
 					"names": [
+						"Caramell - Caramelldansen",
 						"daniwell - Nyanyanyanyanyanyanya! (Nyan Cat)",
-						"Rick Astley - Never Gonna Give You Up",
-						"Caramell - Caramelldansen"
+						"megabyte112 - Emergence (Snak OST)",
+						"megabyte112 - Evolution (Snak OST)",
+						"megabyte112 - Claustrophobia (Snak OST)",
+						"Rick Astley - Never Gonna Give You Up"
 					]
 				},
 				{
 					"title": "Other Assets",
 					"names": [
+						"Ph1LzA",
 						"Vanilla Tweaks",
-						"Ph1LzA"
+						"that 'ladies and gentlemen we got em' meme",
+						"Vine boom sound effect"
 					]
 				},
 				{
 					"title": "Software",
 					"names": [
+						"Adobe Illustrator",
+						"Adobe Photoshop",
+						"Audacity",
 						"GitHub",
 						"Krita",
 						"Open Note Block Studio",

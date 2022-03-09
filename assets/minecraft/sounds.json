@@ -9,5 +9,16 @@
       }
     ],
     "subtitle": "subtitles.item.spyglass.use"
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "random/explode",
+        "volume": 1,
+        "pitch": 1.4
+      }
+    ],
+    "subtitle": "subtitles.entity.generic.explode"
   }
 }
