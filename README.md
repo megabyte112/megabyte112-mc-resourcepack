@@ -6,8 +6,7 @@ A Minecraft resource pack I made, thanks for downloading <3
 This resource pack adds many tweaks and "enhancements" to the game, most of which are taken from VanillaTweaks, but some are also handmade.
 
 These tweaks include, but are not limited to:
-- Ores that glow
-- Ore Borders that connect to each other, and also glow
+- Ore Borders that connect to each other
 - Spyglass becoming the "WHAT" meme
 - Custom Splashes
 - Custom Menu Panorama
@@ -23,7 +22,7 @@ If you have the pack installed and would like to check your version number, clic
 
 If the custom names aren't working, make sure your language is set to English United States.
 
-Make sure OptiFine is installed for connected, emissive, and HD textures.
+Make sure OptiFine is installed for connected, emissive textures. You can also use the Continuity mod for connected textures.
 
 
 UPDATING:
